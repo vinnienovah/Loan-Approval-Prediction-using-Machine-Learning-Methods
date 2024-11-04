@@ -1,0 +1,1 @@
+This project works on financial dataset to predict loan approvals in financial institutions if a client would be approved of their loan applications. The XGB model was found to be the best model with the highest accuracy compared to the other 7 models used in this project.
